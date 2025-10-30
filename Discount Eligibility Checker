@@ -1,0 +1,11 @@
+amount = float(input('enter the purchase amount: '))
+is_member = input('is the customer a member?(y/n): ').lower() == 'y'
+
+if is_member and amount > 100:
+    amount = amount * 0.8
+    print(f'your total is {amount}')
+elif not is_member and amount > 150:
+    amount = amount * 0.9
+    print(f'your total is {amount}')
+else:
+    print(f'your total is {amount}')
