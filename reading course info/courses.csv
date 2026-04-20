@@ -1,0 +1,22 @@
+Course Code,Course Title,Prerequisite,Credit Hours
+BCS101,Elements of Computing,None,3
+BCS102,Introduction to Computing Science I,BCS 101,3
+MTH112,Calculus I,None,3
+MTH113,Calculus II,MTH 112,3
+MTH114,Linear Algebra,MTH 112,3
+MTH120,Discrete Mathematics,None,3
+MTH130,Probability and Statistics,MTH 112,3
+MTH203,Discrete Mathematics for Computing Science,"BCS 102, MTH 120",3
+BCS201,Logic for Computing Science,MTH 120,3
+BCS202,Introduction to Computing Science II,BCS 102,3
+BCS203,Software Specifications,"BCS 201, BCS 202",3
+BCS206,Information Structures,"BCS 202, MTH 203",3
+BCS222,Programming Paradigms,"BCS 201, BCS 202",3
+ENG210,Computer Architecture,BCS 202 or ENG 101,4
+BCS305,Software Architecture,"BCS 203, BCS 206",3
+BCS306,Database Management Systems,"BCS 201, BCS 202",3
+BCS309,Algorithms I,"BCS 201 or BAI 201, BCS 206",3
+BCS311,Scientific Computing,"BCS 102, MTH 114",3
+BCS323,System-Level Programming,BCS 102,3
+BCS401,Ethics for Computing Professionals,None,3
+BCS480,Internship in Computer Science,90 Credit Hours & CGPA >= 2.0,3
